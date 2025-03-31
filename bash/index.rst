@@ -21,12 +21,6 @@ Switch
 Cisco 2900 series switches are employed for connecting the servers. The switches have 1Gbps and 10Gbps ports. The servers are connected to public and local networks using the Virtual Local Area Network (VLAN) on the switch.
 
 
-Accelerator Nodes
-=================
-These are special purpose compute nodes equipped with Graphics Processing Units (GPU) for computation
-intesive tasks. The GPU usually offloads certain computations off the CPU for tasks not ideal for it.
-
-
 Display
 ==============
 Each region is equipped with a Dell display to enable effective troubleshooting and maintenance.
